@@ -1,0 +1,96 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	height: auto;
+}
+header{
+	height: 75px;
+	background-color: #7F0000;
+}
+
+footer{
+	height: 75px;
+	background-color: #7F0000;
+}
+
+.corpo{
+	height: 489px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.Subcorpo1{
+	padding: 5px;
+}
+
+.corpo_img{
+	padding-top: 10px;
+}
+
+.imagem{
+	margin-left: 75px;
+}
+
+.corpo_texto{
+	padding-top: 10px;
+}
+
+.corpo_texto_packer{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	padding-right: 50px;	
+}
+
+.paragrafo_inicio{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.paragrafo{
+	text-align: justify;
+	font-size: 18px;
+	
+}
+
+.linha_direita{
+	padding-left: 30px;
+	height: 244px;
+	padding-top: 30px;
+}
+
+.linha_direita_superior{
+	padding-top: 160px;
+}
+
+.linha_direita_inferior{
+	padding-top: 50px;
+}
+.corpo_packer{
+	height: 1102px;
+}
+
+.packer_header{
+	height: 15px;
+}
+
+.packer_corpo{
+	height: 594px;
+}
+.packer_footer{
+	height: 15px;
+}
+
+.form_img{
+	height: 850px;
+	padding-left: 100px;
+	padding-top: 20px;
+}
+
+.btn-listar{color:#fff;background-color:#7F0000;border-color:#7F0000}
+.btn-listar.focus,.btn-listar:focus{color:#fff;background-color:#7F0000;border-color:#7F0000}
+.btn-listar:hover{color:#fff;background-color:#7F0000;border-color:#7F0000}
+.btn-listar.active,.btn-listar:active,.open>.dropdown-toggle.btn-listar{color:#fff;background-color:#7F0000;border-color:#7F0000}
+.btn-listar.active.focus,.btn-listar.active:focus,.btn-listar.active:hover,.btn-listar:active.focus,.btn-listar:active:focus,.btn-listar:active:hover,.open>.dropdown-toggle.btn-listar.focus,.open>.dropdown-toggle.btn-listar:focus,.open>.dropdown-toggle.btn-listar:hover{color:#fff;background-color:#7F0000;border-color:#7F0000}.btn-listar.active,.btn-listar:active,.open>.dropdown-toggle.btn-listar{background-image:none}.btn-listar.disabled.focus,.btn-listar.disabled:focus,.btn-listar.disabled:hover,.btn-listar[disabled].focus,.btn-listar[disabled]:focus,.btn-listar[disabled]:hover,fieldset[disabled] .btn-listar.focus,fieldset[disabled] .btn-listar:focus,fieldset[disabled] .btn-listar:hover{background-color:#7F0000;border-color:#7F0000}
+.btn-listar .badge{color:#7F0000;background-color:#fff}
